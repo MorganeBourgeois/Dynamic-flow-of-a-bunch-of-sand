@@ -1,0 +1,8 @@
+! Paramètres
+
+10						Demie longueur de base maximale
+12						Hauteur maximale
+n						Affichage à l'écran (y/n)
+tas_final.res			Nom fichier résultat nombre de grain
+distrib_taille.res		Nom du fichier résultat taille avalanche
+distrib_masse.res		Nom du fichier résultat masse avalanche
